@@ -1,0 +1,87 @@
+\documentclass[a4paper,french]{report}
+
+\usepackage[14pt]{extsizes}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}               % Pour les caractères accentués
+%\usepackage [ Lenny ] { fncychap }
+\usepackage{textcomp,calc,varioref,xkeyval,ifthen,fp}
+\usepackage{esvect}											    % Pour les vecteurs
+\usepackage[cyr]{aeguill}
+\usepackage{Alegreya,AlegreyaSans}
+\usepackage{lipsum}
+\renewcommand*\oldstylenums[1]{{\AlegreyaOsF #1}}
+%\usepackage[T1]{fontenc}                    % Encodage de caractères
+\usepackage[francais]{babel}                 % Règles typographiques françaises
+\usepackage{amsmath,amsfonts,dsfont}               % Symboles mathématiques
+\usepackage{graphicx,wrapfig,subfig}                       % Insérer des images
+\usepackage{fancyhdr}                       % En tête et pied de page
+%\usepackage[a4paper,left=40mm,right=40mm,top=20mm,
+%marginparsep=5mm, marginparwidth=20mm]{geometry}% Dimension
+%ou
+\usepackage[a4paper,top=20mm,bottom=20mm]{geometry}
+\usepackage{colortbl}		
+\usepackage{color,xcolor,url,mathptm,natbib,times}	
+\usepackage{tikz,tkz-tab,tkz-base,tkz-euclide,tkz-fct,pgf}  % creer des figures
+\usetikzlibrary{shadows,shapes,positioning,patterns,chains,calc,arrows,plotmarks,through,backgrounds,calendar,decorations.pathmorphing,fit,petri}
+%\usepackage [upright]{fourier}
+\usepackage{pifont}													%%%%%%Symboles Zaft
+\usepackage[colorlinks=true,pdfpagemode=none,pdfstartview=FitH,linkcolor=blue!85]{hyperref}
+\usepackage{array,xtab,multicol,multirow,lscape,minitoc,tabularx,booktabs,pdfpages,makeidx}
+\usepackage[babel=true,kerning=true]{microtype}
+
+
+\newcommand{\pts}[1]{\marginpar{\emph{#1pts}}}
+\newcommand{\pt}[1]{\marginpar{\emph{#1pt}}}
+\newcommand{\abs}[1]{\lvert#1\rvert}
+\newcommand{\nor}[1]{\lVert#1\rVert}
+\newcommand{\iog}[1]{\left]#1\right]}				% Intervalle ouvert à gauche
+\newcommand{\iod}[1]{\left[#1\right[}				% Intervalle ouvert à droite
+\newcommand{\io}[1]{\left]#1\right[}				% Intervalle ouvert
+\newcommand{\ife}[1]{\left[#1\right]}				% Intervalle fermé
+\newcommand{\dd}[1]{\left(#1\right]}				% Notation d'une demi-droite
+\newcommand{\dr}[1]{\left(#1\right)}				% Notation d'une droite
+\newcommand{\ens}[1]{\left\{#1\right\}}			% Insere des accolades
+\newcommand{\sd}[2]{\left\{							    % Système de deux équations
+  \begin{gathered}
+    #1\\
+    #2
+  \end{gathered}\right.}
+\newcommand{\st}[3]{\left\{							    % Système de trois équations
+  \begin{gathered}
+    #1\\
+    #2\\
+    #3
+  \end{gathered}\right.}
+\newcommand{\pivot}[6]{\left\{							% Système de trois équations avec manip deslignes
+  \begin{array}{cl}
+    #1 & #4\\
+    #2 & #5\\
+    #3 & #6
+  \end{array}\right.}
+\newcommand{\sdc}[4]{\left\{							% Système de deux équations avec conditions
+  \begin{array}{cl}
+    #1 & #3\\
+    #2 & #4\\
+  \end{array}\right.}
+\newcommand{\rev}{ $\mathbb R$-espace vectoriel }
+\newcommand{\sev}{ sous-espace vectoriel }
+\newcommand{\ron}{ repère orthonormé }
+\newcommand{\po}{projeté orthogonal }
+\newcommand{\ldn}[1]{ligne de niveau $#1$ }
+\newcommand{\vi}{\vv{\imath}}
+\newcommand{\vj}{\vv{\jmath}}
+\newcommand{\ps}[2]{\vv{#1}.\vv{#2}}
+\newcommand{\psd}[2]{\nor{\vv{#1}}.\nor{\vv{#2}}.\cos(\vv{#1},\vv{#2})}
+\newcommand{\Lim}[2]{\displaystyle\lim_{#1\rightarrow #2}}
+\newcommand{\Slim}[1]{\displaystyle\lim_{#1}}
+\newcommand{\G}[1]{\mathds{#1}}
+\newcommand{\C}[1]{\mathcal{#1}}
+\newcommand{\N}[1]{\nombre{#1}}
+
+
+
+\graphicspath{{Images/}}
+
+\selectlanguage{francais}
+
+\parindent=0cm

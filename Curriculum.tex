@@ -1,0 +1,53 @@
+\input{preambule_UT1.sty}
+
+\newcommand{\savoirfaire}{\includegraphics[width=.25\textwidth]{SavoirFaire.pdf}}
+\newcommand{\savoir}{\includegraphics[width=.25\textwidth]{Savoir.pdf}}
+\newcommand{\ressource}[1]{\includegraphics[width=.7\textwidth]{#1}}
+
+\title {\Huge\bf Programme d'étude de Mathématiques}
+\author { }
+\date {\today}
+
+\makeindex
+
+\begin{document}
+
+
+\sf
+
+\includepdf[fitpaper=true]{Couverture.pdf}
+
+\maketitle
+\dominitoc
+\tableofcontents
+
+\renewcommand{\labelitemi}{\Pisymbol{pzd}{219}}
+\renewcommand{\labelitemii}{\Pisymbol{pzd}{85}}
+\renewcommand{\labelitemiii}{\Pisymbol{pzd}{98}}
+
+\input{Presentation.tex}
+
+%\newcounter{module}
+%\setcounter{module}{1}
+%\renewcommand{\thechapter}{\themodule}
+
+\part*{Classe de sixième}
+\addcontentsline{toc}{part}{Classe de sixième}
+
+\setcounter{chapter}{0}
+\renewcommand{\chaptername}{Module}
+
+\input{Module1.tex}
+\input{Module2.tex}
+\input{Module3.tex}
+\input{Module4.tex}
+
+\part*{Classe de cinquième}
+\addcontentsline{toc}{part}{Classe de cinquième}
+
+\input{Module5.tex}
+\input{Module6.tex}
+\input{Module7.tex}
+\input{Module8.tex}
+
+\end{document}

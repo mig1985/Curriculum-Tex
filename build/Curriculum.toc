@@ -1,0 +1,108 @@
+\select@language {francais}
+\select@language {french}
+\select@language {french}
+\contentsline {starchapter}{Pr\IeC {\'e}sentation g\IeC {\'e}n\IeC {\'e}rale du programme d'\IeC {\'e}tudes}{5}{chapter*.2}
+\contentsline {section}{La situation du programme d'\IeC {\'e}tudes dans le curriculum et sa contribution aux domaines d'apprentissage}{6}{section*.3}
+\contentsline {section}{Domaines de vie et contribution du programme aux domaines de vie}{7}{section*.4}
+\contentsline {section}{Familles de situations couvertes par le programme d'\IeC {\'e}tudes}{7}{section*.5}
+\contentsline {section}{Modules du programme d'\IeC {\'e}tudes}{8}{section*.6}
+\contentsline {subsection}{Tableau synoptique des modules du programme d'\IeC {\'e}tudes}{8}{section*.7}
+\contentsline {subsection}{Pr\IeC {\'e}sentation des modules}{9}{section*.8}
+\contentsline {section}{Quelques recommandations d'ordre p\IeC {\'e}dagogiques}{10}{section*.9}
+\contentsline {subsection}{M\IeC {\'e}thodologie recommand\IeC {\'e}e}{10}{section*.10}
+\contentsline {subsection}{Evaluation}{11}{section*.11}
+\contentsline {subsection}{Quelques consignes relatives aux contenus et aux apprentissages}{12}{section*.12}
+\contentsline {subsubsection}{Langage ensembliste}{12}{section*.13}
+\contentsline {subsubsection}{Comparaison des nombres}{12}{section*.14}
+\contentsline {subsubsection}{Calculatrices}{12}{section*.15}
+\contentsline {subsubsection}{Apprentissage de la rigueur et abus de langage}{12}{section*.16}
+\contentsline {subsubsection}{Angle}{12}{section*.17}
+\contentsline {subsubsection}{Espace}{12}{section*.18}
+\contentsline {subsubsection}{Configurations planes}{13}{section*.19}
+\contentsline {subsubsection}{Gestion des modules}{13}{section*.20}
+\contentsline {subsubsection}{Gestion des modules}{13}{section*.20}
+\partbegin 
+\contentsline {part}{Classe de sixi\IeC {\`e}me}{15}{part*.21}
+\contentsline {chapter}{\numberline {1}Relations et op\IeC {\'e}rations fondamentales dans l'ensemble des nombres d\IeC {\'e}cimaux et des fractions}{15}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{15}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Pr\IeC {\'e}sentation du module}{15}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{16}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{16}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Matrice}{17}{section.1.2}
+\contentsline {subsection}{\textbf {Ressource 1}: Les nombres entiers naturels}{17}{section*.22}
+\contentsline {subsection}{\textbf {Ressource 2}: Les fractions}{18}{section*.23}
+\contentsline {subsection}{\textbf {Ressource 3}: Nombres d\IeC {\'e}cimaux arithm\IeC {\'e}tiques}{18}{section*.24}
+\contentsline {subsection}{\textbf {Ressource 4}: Nombres d\IeC {\'e}cimaux relatifs}{18}{section*.25}
+\contentsline {subsection}{\textbf {Ressource 5}: Calcul litt\IeC {\'e}ral}{19}{section*.26}
+\contentsline {chapter}{\numberline {2}Organisation et gestion des donn\IeC {\'e}es}{20}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{20}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Pr\IeC {\'e}sentation du module}{20}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{21}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{21}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Matrice}{22}{section.2.2}
+\contentsline {subsection}{\textbf {Ressource}: proportionnalit\IeC {\'e}}{22}{section*.27}
+\contentsline {chapter}{\numberline {3}Configurations et transformations \IeC {\'e}l\IeC {\'e}mentaires du plan}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{24}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Pr\IeC {\'e}sentation du module}{24}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{24}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{25}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Matrice}{26}{section.3.2}
+\contentsline {subsection}{\textbf {Ressource 1}: droites du plan}{26}{section*.28}
+\contentsline {subsection}{\textbf {Ressource 2}: segments}{27}{section*.29}
+\contentsline {subsection}{\textbf {Ressource 3}: cercle}{28}{section*.30}
+\contentsline {subsection}{\textbf {Ressource 4}: angles}{28}{section*.31}
+\contentsline {subsection}{\textbf {Ressource 5}: triangles}{28}{section*.32}
+\contentsline {subsection}{\textbf {Ressource 6}: parall\IeC {\'e}logrammes}{29}{section*.33}
+\contentsline {subsection}{\textbf {Ressource 7}: sym\IeC {\'e}tries orthogonales}{29}{section*.34}
+\contentsline {subsection}{\textbf {Ressource 8}: sym\IeC {\'e}tries centrales}{29}{section*.35}
+\contentsline {subsection}{\textbf {Ressource 9}: rep\IeC {\'e}rage d'un point sur une droite}{30}{section*.36}
+\contentsline {chapter}{\numberline {4}Solides de l'espace}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{31}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Pr\IeC {\'e}sentation du module}{31}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{32}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{32}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Matrice}{33}{section.4.2}
+\contentsline {subsection}{\textbf {Ressource 1}: cube et pav\IeC {\'e} droit}{33}{section*.37}
+\contentsline {subsection}{\textbf {Ressource 2}: cylindre de r\IeC {\'e}volution}{34}{section*.38}
+\partbegin 
+\contentsline {part}{Classe de cinqui\IeC {\`e}me}{36}{part*.39}
+\contentsline {chapter}{\numberline {5}Relations et op\IeC {\'e}rations fondamentales dans l'ensemble des nombres d\IeC {\'e}cimaux et des fractions.}{36}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{36}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Pr\IeC {\'e}sentation du module}{36}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{37}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{37}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Matrice}{38}{section.5.2}
+\contentsline {subsection}{\textbf {Ressource 1}: arithm\IeC {\'e}tique}{38}{section*.40}
+\contentsline {subsection}{\textbf {Ressource 2}: fractions}{39}{section*.41}
+\contentsline {subsection}{\textbf {Ressource 3}: nombres d\IeC {\'e}cimaux relatifs}{39}{section*.42}
+\contentsline {subsection}{\textbf {Ressource 4}: calcul litt\IeC {\'e}ral}{39}{section*.43}
+\contentsline {chapter}{\numberline {6}Statistiques}{40}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{40}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Pr\IeC {\'e}sentation du module}{40}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{41}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{41}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Matrice}{42}{section.6.2}
+\contentsline {subsection}{\textbf {Ressource 1}: proportionnalit\IeC {\'e}}{42}{section*.44}
+\contentsline {subsection}{\textbf {Ressource 2}: statistiques}{43}{section*.45}
+\contentsline {chapter}{\numberline {7}Configurations et transformations \IeC {\'e}l\IeC {\'e}mentaires du plan}{44}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{44}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Pr\IeC {\'e}sentation du module}{44}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{45}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{45}{subsection.7.1.3}
+\contentsline {section}{\numberline {7.2}Matrice}{46}{section.7.2}
+\contentsline {subsection}{\textbf {Ressource 1}: distances}{47}{section*.46}
+\contentsline {subsection}{\textbf {Ressource 2}: triangles}{47}{section*.47}
+\contentsline {subsection}{\textbf {Ressource 3}: polygones}{47}{section*.48}
+\contentsline {subsection}{\textbf {Ressource 4}: sym\IeC {\'e}tries}{48}{section*.49}
+\contentsline {subsection}{\textbf {Ressource 5}: angles}{48}{section*.50}
+\contentsline {subsection}{\textbf {Ressource 6}: cercle}{48}{section*.51}
+\contentsline {subsection}{\textbf {Ressource 7}: rep\IeC {\'e}rage d'un point sur une droite}{49}{section*.52}
+\contentsline {subsection}{\textbf {Ressource 8}: rep\IeC {\'e}rage d'un point sur un quadrillage}{49}{section*.53}
+\contentsline {chapter}{\numberline {8}Solides de l'espace}{50}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{50}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}Pr\IeC {\'e}sentation du module}{50}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}Contribution du module \IeC {\`a} la finalit\IeC {\'e} et aux buts curriculaires}{51}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Contribution du module au programme d'\IeC {\'e}tudes et aux domaines de vie}{51}{subsection.8.1.3}
+\contentsline {section}{\numberline {8.2}Matrice}{52}{section.8.2}
+\contentsline {subsection}{\textbf {Ressource 1}: prisme droit}{52}{section*.54}
+\contentsline {subsection}{\textbf {Ressource 2}: sph\IeC {\`e}re}{53}{section*.55}
